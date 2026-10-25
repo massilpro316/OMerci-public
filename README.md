@@ -1,6 +1,6 @@
 # OMerci-public
 
-Public pages for the Oh Merci apps, served with GitHub Pages.
+Public pages for the OMerci apps, served with GitHub Pages.
 
 | Page | URL |
 | --- | --- |
